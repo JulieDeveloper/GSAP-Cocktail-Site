@@ -11,7 +11,6 @@ const App = () => {
 		<main>
 			<Navbar />
 			<Hero />
-			<div className='h-dvh bg-white'></div>
 		</main>
 	);
 };
